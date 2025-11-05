@@ -1,0 +1,26 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pyo
+*.egg-info/
+.env
+venv/
+.env/
+.venv/
+	
+# Temporary files
+*.tmp
+*.bak
+*.old
+*~

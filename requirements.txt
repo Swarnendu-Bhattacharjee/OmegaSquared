@@ -1,0 +1,26 @@
+# Core
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.1
+seaborn==0.13.2
+scikit-learn==1.5.1
+
+# Gradient Boosting Models
+xgboost==2.1.0
+lightgbm==4.3.0
+catboost==1.2.5
+
+# Optimization
+optuna==3.6.0
+
+# API / Deployment
+fastapi==0.115.0
+uvicorn==0.30.1
+
+# Utilities
+joblib==1.4.2
+tqdm==4.66.4
+
+# Jupyter / Research
+notebook==7.2.0
+ipykernel==6.29.4
